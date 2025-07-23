@@ -47,12 +47,14 @@
 ![Игра](media/game2.jpg)
 ![Игра](media/game3.jpg)
 ![Игра](media/game4.jpg)
+![Игра](media/game5.jpg)
+![Игра](media/game6.jpg)
 
 ---
 
 ## 🎥 Видео (бета)
 
-➡️ ![Видео-Бета](media/gamevideo.MOV)
+➡️ https://youtu.be/TaEgnP_RaKc?si=0DVOyI2DZhO1KIwg
 
 ---
 
