@@ -49,7 +49,17 @@
 ![Игра](media/game4.jpg)
 ![Игра](media/game5.jpg)
 ![Игра](media/game6.jpg)
-
+![Игра](media/game7.jpg)
+![Игра](media/game8.jpg)
+![Игра](media/game9.jpg)
+![Игра](media/game10.jpg)
+![Игра](media/game11.jpg)
+![Игра](media/game12.jpg)
+![Игра](media/game13.jpg)
+![Игра](media/game14.jpg)
+![Игра](media/game15.jpg)
+![Игра](media/game16.jpg)
+![Игра](media/game17.jpg)
 ---
 
 ## 🎥 Видео (бета)
